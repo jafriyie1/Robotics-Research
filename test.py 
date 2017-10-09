@@ -1,0 +1,8 @@
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.models import model_from_yaml
+import numpy
+import os
+
+# load model
+loaded_model.load_weights(nn.h5)
